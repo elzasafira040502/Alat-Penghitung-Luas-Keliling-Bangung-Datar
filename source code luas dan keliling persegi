@@ -1,0 +1,6 @@
+def luaspersegi (sisi):
+    Lpersegi=sisi*sisi
+    return Lpersegi
+def kelilingpersegi (sisi):
+    Kpersegi=s*4
+    return Kpersegi
